@@ -1,0 +1,33 @@
+body {
+    background-image: url(/static/background.jpg);
+    background-position:inherit;
+    background-size: cover;
+}
+
+.tabla {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.boton-guardar {
+    background-color: #f5be0b;
+    color: #000000
+}
+
+.boton-guardar:hover {
+    background-color: #eed06f;
+    color: #000000
+}
+
+.boton-editar {
+    background-color: #f5be0b;
+}
+
+.boton-edit:hover {
+    background-color: #eed06f;
+    color: #000000
+}
+
+.boton-borrar {
+    background-color: #ce1212;
+}
